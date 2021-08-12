@@ -1,0 +1,20 @@
+[
+    {
+        "idNumero":"01",
+        "direccion":"Av. Italia 564",
+        "ciudad":"Montevideo",
+        "telefono":"2 645 1032"
+    },
+    {
+        "idNumero":"02",
+        "direccion":"Ing. José Maria Perez 8423 ",
+        "ciudad":"Mercedes-Soriano",
+        "telefono":"4 123 4634"
+    },
+    {
+        "idNumero":"03",
+        "direccion":"Santa María 103",
+        "ciudad":"El Pinar-Canelones",
+        "telefono":"2 345 6235"
+    }
+]
