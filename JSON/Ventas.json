@@ -1,0 +1,20 @@
+[
+    {
+        "idFactura":"001",
+        "monto":"$499",
+        "cantAlbumesComprado":"1",        
+        "metodoPago":"Efectivo"
+    },
+    {
+        "idFactura":"002",
+        "monto":"$2050",
+        "cantAlbumesComprado":"3",        
+        "metodoPago":"Tarjeta Débito"
+    },
+    {
+        "idFactura":"003",
+        "monto":"$5999",
+        "cantAlbumesComprado":"5",        
+        "metodoPago":"Tarjeta Crédito"
+    }
+]

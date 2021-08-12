@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "El Funebrero",
+        "genero": "Rock",
+        "duracion":"03:20",
+        "anioLanzamiento":"2006",        
+        "cantVistas":"3.081"
+    },
+    {
+        "nombre": "La Causa Perdida del Organizar el Mundial 2030",
+        "genero": "Murga",
+        "duracion":"3:22",
+        "anioLanzamiento":"2019",
+        "cantVistas":"13.666"
+    },
+    {
+        "nombre": "Rocanroles sin Destino",
+        "genero": "Rock",
+        "duracion":"04:01",
+        "anioLanzamiento":"2004",
+        "cantVistas":"4.000.000"
+    },
+    {
+        "nombre": "Zafar",
+        "genero": "Rock",
+        "duracion":"04:24",
+        "anioLanzamiento":"2004",
+        "cantVistas":"69.400.000"
+    },
+    {
+        "nombre": "Al sur del atardecer",
+        "genero": "Murga",
+        "duracion":"03:01",
+        "anioLanzamiento":"2015",     
+        "cantVistas":"6.300.000"
+    },
+    {
+        "nombre": "Homenaje a San Carlos",
+        "genero": "Murga",
+        "duracion":"07:19",
+        "anioLanzamiento":"2017",     
+        "cantVistas":"6500"
+    },
+    {
+        "nombre": "Sol Negro",
+        "genero": "Cumbia",
+        "duracion":"04:11",
+        "anioLanzamiento":"1995",   
+        "cantVistas":"1.000.000"
+    },
+    {
+        "nombre": "El cumbianchero",
+        "genero": "Cumbia",
+        "duracion":"04:07",
+        "anioLanzamiento":"2014",
+        "cantVistas":"2.100.000"
+    },
+    {
+        "nombre": "Cinco minutos",
+        "genero": "Cumbia",
+        "duracion":"03:40",
+        "anioLanzamiento":"2014",
+        "cantVistas":"5.600.000"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "nombre": "Hijos del rigor",
+        "genero": "Rock",
+        "anio_lanzamiento":"2006",        
+        "cantCanciones":"14"
+    },
+    {
+        "nombre": "Defensores de causas perdidas",
+        "genero": "Murga",
+        "anio_lanzamiento":"2019",
+        "cantCanciones":"11"
+    },
+    {
+        "nombre": "Rocanroles sin Destino",
+        "genero": "Rock",
+        "anio_lanzamiento":"2004",
+        "cantCanciones":"14"
+    },
+    {
+        "nombre": "A contra luz",
+        "genero": "Rock",
+        "anio_lanzamiento":"2004",
+        "cantCanciones":"14"
+    },
+    {
+        "nombre": "Natural",
+        "genero": "Murga",
+        "anio_lanzamiento":"2015",     
+        "cantCanciones":"08"
+    },
+    {
+        "nombre": "Ruido",
+        "genero": "Murga",
+        "anio_lanzamiento":"2017",     
+        "cantCanciones":"08"
+    },
+    {
+        "nombre": "Todos vuelven",
+        "genero": "Cumbia",
+        "anio_lanzamiento":"1995",   
+        "cantCanciones":"10"
+    },
+    {
+        "nombre": "Muy personal",
+        "genero": "Cumbia",
+        "anio_lanzamiento":"2018",
+        "cantCanciones":"14"
+    },
+    {
+        "nombre": "Sentimientos encontrados",
+        "genero": "Cumbia",
+        "anio_lanzamiento":"2014",
+        "cantCanciones":"11"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "nombre": "Trotsky Vengaran",
+        "genero": "Rock",
+        "cantSuscriptores":"2.280"
+    },
+    {
+        "nombre": "Agarrate Catalina",
+        "genero": "Murga",
+        "cantSuscriptores":"21.000"
+    },
+    {
+        "nombre": "Callejeros",
+        "genero": "Rock",
+        "cantSuscriptores":"61.000"
+    },
+    {
+        "nombre": "La Vela Puerca",
+        "genero": "Rock",
+        "cantSuscriptores":"319.000"
+    },
+    {
+        "nombre": "Cayo la Cabra",
+        "genero": "Murga",
+        "cantSuscriptores":"934"
+    },
+    {
+        "nombre": "La clave",
+        "genero": "Murga",
+        "cantSuscriptores":"80"
+    },
+    {
+        "nombre": "Sonido Caracol",
+        "genero": "Cumbia",
+        "cantSuscriptores":"7.560"
+    },
+    {
+        "nombre": "Chacho Ramos",
+        "genero": "Cumbia",
+        "cantSuscriptores":"6.000"
+    },
+    {
+        "nombre": "Lucas Sugo",
+        "genero": "Cumbia",
+        "cantSuscriptores":"749.000"
+    }
+]
