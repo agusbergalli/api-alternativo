@@ -4,29 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="script/artista.js"></script>
-    <title>Artistas</title>
+    <script src="script/ventas.js"></script>
+    <title>Ventas</title>
 </head>
 <body>
-   <button onclick="cargarDatos(artista_url)">
-        <strong>Cargar artistas</strong>
+    <button onclick="cargarDatos(ventas_url)">
+        <strong>Cargar ventas</strong>
     </button>
-     
+
     <table>
         <thead>
             <tr>
                 <th>
-                    Nombre
+                    Factura
                 </th>
                 <th>
-                    Genero
+                    Monto
                 </th>
                 <th>
-                    Suscriptores
+                    Metodo Pago
+                </th>
+                <th>
+                    Albumes Comprados
                 </th>
             </tr>
         </thead>
-        <tbody id="artista"></tbody>
+        <tbody id="ventas"></tbody>
     </table>
 </body>
 </html>
